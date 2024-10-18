@@ -2,8 +2,9 @@
     width: 800px;
     background-color: #dcc9f4;
     text-align: center ;
-    margin: 20px 0 20px 0;
-    
+    margin: 20px 0 20px 0; 
+    margin-left: auto;
+    margin-right: auto;  
 
 }
 
@@ -25,6 +26,8 @@
     text-align: center;
     background-color: #ffd9df;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #middle-child01 {
@@ -60,6 +63,8 @@
     background-color: #87ceeb;
     text-align: center;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
